@@ -1,6 +1,6 @@
 # JPG watermarker
 ### Description
-Simple application for adding a watermark to JPG images.<br />
+Simple application for images watermarking and resizing.<br />
 Allows to set font, size, color, position and transparency of the watermark.<br />
 Designed for batch processing, but it is possible to process single files.<br />
 
